@@ -21,6 +21,7 @@ List of tasks that you can visit here:  -> [Task-lis](https://slawekhups.github.
 - BEM 
 - GRID 
 - FLEX
+- REACT
 #
 # Getting Started with Create React App
 
