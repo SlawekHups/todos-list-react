@@ -1,8 +1,8 @@
 {
-  "name": "todo-list-react",
+  "name": "todos-list-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://slawekhups.github.io/todo-list-react/",
+  "homepage": "https://slawekhups.github.io/todos-list-react/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
