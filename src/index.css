@@ -9,7 +9,7 @@ html {
 }
 
 body {
-  font: normal 18px/1.5'Montserrat', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   background-color: #efefef;
   word-break: break-word;
 }
