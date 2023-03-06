@@ -5,9 +5,9 @@ I present a website with the ability to add tasks that we want to perform. Tasks
 
 ## Demo
 
-List of tasks that you can visit here:  -> [Task-lis](https://slawekhups.github.io/Task-list/)
+List of tasks that you can visit here:  -> [Todos-list-react](https://slawekhups.github.io/todos-list-react)
 
-![enter image description here](https://slawekhups.github.io/Task-list/images/share.jpeg)
+![enter image description here](https://slawekhups.github.io/todos-list-react/images/share.jpeg)
 
 ## Action
 
