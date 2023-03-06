@@ -1,4 +1,4 @@
-import"./stayle.css";
+import "./stayle.css";
 
 const Container = ({ children }) => (
     <main className="container">
