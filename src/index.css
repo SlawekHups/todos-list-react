@@ -10,6 +10,8 @@ html {
 
 body {
   font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+  font: normal;
   background-color: #efefef;
   word-break: break-word;
 }
