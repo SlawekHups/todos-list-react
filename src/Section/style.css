@@ -4,6 +4,10 @@
     margin: 20px 0;
 }
 
+.section__body {
+    padding-top: 15px;
+}
+
 .section__header {
     font-size: 18px;
     padding: 20px;
